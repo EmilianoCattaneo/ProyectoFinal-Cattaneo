@@ -1,9 +1,16 @@
 nav {
     text-align: center;
+    justify-content: space-between;
 }
 
-h3 {}
+h3 {
+    margin: 0px;
+}
 
 div {
     display: inline;
+}
+
+.NavBar {
+    background-color: antiquewhite;
 }
